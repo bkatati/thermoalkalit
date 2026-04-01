@@ -1,0 +1,42 @@
+Medium,stage,treat,untreat,ID,LbB1,B1
+[A] MFlour,prepared,yes,yes,MMeal (Raw) 1:9 5G58:Blank,121.7877747,121.7877747
+[A] MFlour,prepared,yes,yes,MMeal (Raw) 1:9 5G58:Blank,92.81993787,92.81993787
+[A] MFlour,prepared,yes,yes,MMeal (Raw) 1:9 5G58:Blank,76.80611029,76.80611029
+[A] MFlour,prepared,yes,yes,MMeal (Raw) 1:9 5G58:Blank,78.91061126,78.91061126
+[A] MFlour,prepared,yes,yes,MMeal (Raw) 1:9 5G58:Blank,111.8959195,111.8959195
+Qcontrol_ox,control,no,no,MMeal (Raw)+HCO03 1:9 5G58:Blank ,90.46784855,90.46784855
+Qcontrol_ox,control,no,no,MMeal (Raw)+HCO03 1:9 5G58:Blank ,73.42629575,73.42629575
+Qcontrol_ox,control,no,no,MMeal (Raw)+HCO3 1:9 5G58:Blank ,114.2386658,114.2386658
+Qcontrol_ox,control,no,no,MMeal (Raw)+HCO3 1:9 5G58:Blank ,97.63856772,97.63856772
+Qcontrol_ox,control,no,no,MMeal (Raw)+HCO3 1:9 5G58:Blank ,86.14906687,86.14906687
+Qcontrol_ox,control,no,no,MMeal (Raw)+HCO3 1:9 5G58:Blank ,81.37948754,81.37948754
+[C] Nshima,prepared,no,yes,Nshima,83.85957536,83.85957536
+[C] Nshima,prepared,no,yes,Nshima,71.33739752,71.33739752
+[C] Nshima,prepared,no,yes,Nshima,94.22409081,94.22409081
+[C] Nshima,prepared,no,yes,Nshima,64.13622031,64.13622031
+[C] Nshima,prepared,no,yes,Nshima,74.72608787,74.72608787
+[C] Nshima,prepared,no,yes,Nshima,70.95900778,70.95900778
+[E] Nshima_Ox,prepared,yes,no,Nshima+HCO3,32.4860206,32.4860206
+[E] Nshima_Ox,prepared,yes,no,Nshima+HCO3,46.65965945,46.65965945
+[E] Nshima_Ox,prepared,yes,no,Nshima+HCO3,57.63632542,57.63632542
+[E] Nshima_Ox,prepared,yes,no,Nshima+HCO3,37.35968047,37.35968047
+[E] Nshima_Ox,prepared,yes,no,Nshima+HCO3,22.61761614,22.61761614
+[E] Nshima_Ox,prepared,yes,no,Nshima+HCO3,37.65230187,37.65230187
+[F] Nshima_Ox+H,eaten,yes,no,Nshima+HCO3+HCL,0.496110994,5
+[F] Nshima_Ox+H,eaten,yes,no,Nshima+HCO3+HCL ,0,5
+[F] Nshima_Ox+H,eaten,yes,no,Nshima+HCO3+HCL ,0,5
+[F] Nshima_Ox+H,eaten,yes,no,Nshima+HCO3+HCL ,0.487702333,5
+[F] Nshima_Ox+H,eaten,yes,no,Nshima+HCO3+HCL ,0.441454698,5
+[F] Nshima_Ox+H,eaten,yes,no,Nshima+HCO3+HCL ,0,5
+[B] Porridge,prepared,no,yes,Porridge,125.0788312,125.0788312
+[B] Porridge,prepared,no,yes,Porridge,102.1336977,102.1336977
+[B] Porridge,prepared,no,yes,Porridge,86.39899096,86.39899096
+[B] Porridge,prepared,no,yes,Porridge,98.20264873,98.20264873
+[B] Porridge,prepared,no,yes,Porridge,72.96405297,72.96405297
+[B] Porridge,prepared,no,yes,Porridge,82.08114358,82.08114358
+[D] Porridge_Ox,prepared,yes,no,Porridge+HCO3,24.11183519,24.11183519
+[D] Porridge_Ox,prepared,yes,no,Porridge+HCO3,10.79041413,10.79041413
+[D] Porridge_Ox,prepared,yes,no,Porridge+HCO3,26.30649569,26.30649569
+[D] Porridge_Ox,prepared,yes,no,Porridge+HCO3,17.10742064,17.10742064
+[D] Porridge_Ox,prepared,yes,no,Porridge+HCO3,5.152406979,5.152406979
+[D] Porridge_Ox,prepared,yes,no,Porridge+HCO3,13.94576414,13.94576414
