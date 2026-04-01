@@ -18,7 +18,7 @@
 ########################################################################
 
 my_data <- read.csv(url("https://github.com/bkatati/thermoalkalit/blob/main/AflOxidation.csv"))
-# the data uses LoD of 5 ug/kg
+# the analysis uses LoD of 5 ug/kg
 
 # NB: if file path error occurs, download csv file "AflOxidation.csv" 
 # from site "https://github.com/bkatati/thermoalkalit" 
@@ -248,7 +248,7 @@ sd(B1flour)
 
 t.test(B1soda,B1flour, conf.level=0.95)
 
-# No, soda did not enhance the aflatoxin extraction (p-value = 0.894).
+# No, bicarbonate did not enhance the aflatoxin extraction (p-value = 0.894).
 # Welch Two Sample t-test
 
 # data:  B1soda and B1flour
@@ -266,7 +266,7 @@ t.test(B1soda,B1flour, conf.level=0.95)
 # Effect of Acid Treatment
 ##########################
 
-# Did acid treatment change upper-bound B1?
+# Did acid treatment change B1 levels?
 
 acid_B1 <- alkali$B1[Stomach]
 acid_B1
